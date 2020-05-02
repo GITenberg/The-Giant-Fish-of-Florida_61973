@@ -1,11 +1,16 @@
 _repo: The-Giant-Fish-of-Florida_61973
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61973-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Turner-Turner, J.
     gutenberg_agent_id: '51704'
     url: http://www.gutenberg.org/2009/agents/51704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61973#The-Giant-Fish-of-Florida
 gutenberg_issued: '2020-04-29'
 gutenberg_type: Text
 identifiers:
